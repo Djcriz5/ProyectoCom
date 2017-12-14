@@ -1,0 +1,11 @@
+Enemy"tank1"{
+    attackspeed:0.7,
+    movementspeed:2,
+    maxhealt:400,
+    }
+Enemy"tank2"{  
+    attackspeed:random,
+    movementspeed:random,
+    maxhealt:random,
+    
+}
